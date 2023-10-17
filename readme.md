@@ -4,8 +4,7 @@ Implementacion en Python del patron Failover. Demostracion con modulos que gener
 
 ## Recursos
 
-https://aws.amazon.com/es/blogs/networking-and-content-delivery/
-three-advanced-design-patterns-for-high-available-applications-using-amazon-cloudfront/
+https://aws.amazon.com/es/blogs/networking-and-content-delivery/three-advanced-design-patterns-for-high-available-applications-using-amazon-cloudfront/
 
 ## Prueba de ejecucion
 
